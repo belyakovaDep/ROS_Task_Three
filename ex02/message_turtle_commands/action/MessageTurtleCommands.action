@@ -1,0 +1,7 @@
+string command 	# “forward”,”turn_left”, “turn_right”
+int32 s
+int32 angle
+---
+bool result
+---
+int32 odom

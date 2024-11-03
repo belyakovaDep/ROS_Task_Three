@@ -1,0 +1,5 @@
+WORKTEST:
+go in the folder with python files:
+	python3 action_turtle_server.py 
+run in cmd:
+	ros2 action send_goal --feedback messageturtlecommands message_turtle_commands/action/MessageTurtleCommands "{command: 'forward', s: 2, angle: 0.5}"

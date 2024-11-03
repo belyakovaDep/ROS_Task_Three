@@ -1,0 +1,1 @@
+ros2 run move_to_goal server 0.0 0.0 0.0

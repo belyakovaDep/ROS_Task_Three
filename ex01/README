@@ -1,0 +1,4 @@
+to run:
+	colcon build --packages-select name_w
+	colcon build --packages-select service_full_name
+	source install/setup.bash
